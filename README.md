@@ -1,6 +1,8 @@
-# JAweb v2 ReactJS and Mongo examples w API News, Phantom deveriation
+# JAweb v2 ReactJS and MongoDB/Mongoose examples w API News, Phantom deveriation
+http://www.JamesAvakian.com
 
 ![Screen Shot 2022-08-11 at 7 39 17 PM](https://user-images.githubusercontent.com/92414210/184275082-f9020413-1eb1-48b1-9083-88bb8c1c6abd.png)
+
 ![Screen Shot 2022-08-11 at 7 39 35 PM](https://user-images.githubusercontent.com/92414210/184275100-a127bdf0-67b6-4d5f-ae65-47f4ecebaa77.png)
 
 
